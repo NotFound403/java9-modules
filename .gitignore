@@ -1,0 +1,4 @@
+# Project exclude paths
+/cn.felord/target/
+/com.ooo/target/
+/com.xxx/target/
